@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "client-stream"
+	pb "client-stream/pb"
 	"google.golang.org/grpc"
 	"log"
 	"net"

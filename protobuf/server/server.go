@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	pb "go-grpc/protobuf"
+	pb "protobuf/pb"
 	"log"
 	"net"
 

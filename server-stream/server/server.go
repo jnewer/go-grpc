@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	pb "go-grpc/server-stream"
+	pb "server-stream/pb"
 	"google.golang.org/grpc"
 	"net"
 	"time"

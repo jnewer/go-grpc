@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	pb "go-grpc/protobuf"
+	pb "protobuf/pb"
 	"google.golang.org/grpc"
 )
 

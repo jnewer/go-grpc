@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	pb "go-grpc/stream"
+	pb "stream/pb"
 	"log"
 	"time"
 

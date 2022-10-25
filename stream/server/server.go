@@ -1,7 +1,7 @@
 package main
 
 import (
-	pb "go-grpc/stream"
+	pb "stream/pb"
 	"google.golang.org/grpc"
 	"log"
 	"net"
